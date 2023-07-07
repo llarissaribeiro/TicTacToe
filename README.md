@@ -11,7 +11,7 @@
 <br> - Quando jogador ganhar será mostrado seu nome na tela
 <br> - O jogo pode ser reiniciado</p>
 
-<h1>💻 Demo</h1>
+<h1>💻 Deploy da Aplicação com GitHub Pages</h1>
 https://llarissaribeiro.github.io/TicTacToe/
 
 <h1>🚀 Tecnologias</h1>
