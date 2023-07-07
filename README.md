@@ -1,11 +1,20 @@
-## Tic-Tac-Toe / Jogo da Velha
+<h1 align='center'>Tic Tac Toe</h1>
 
-Construa um jogo tic-tac-toe, conhecido em português como jogo da velha, utilizando HTML, CSS e Javascript. Você pode desenvolver com liberdade, da forma que preferir, mas o jogo precisa atender aos seguintes requisitos:
+<p align="center"> Projeto de um jogo da velha </p>
 
-- Deve ser possível incluir os nomes dos dois jogadores;
-- O nome do jogador da vez deve ser mostrado na tela e alterado a medida que os turnos vão se alternando;
-- Um tabuleiro deve ser mostrado na tela e ser atualizado quando o jogador clicar na região que ele quer marcar;
-- Quando um jogador clicar no tabuleiro deve ser marcado um “X” ou “O” de acordo com o jogador da vez e não deve ser possível clicar naquela região novamente;
-- Quando um jogador ganhar seu nome deve ser mostrado na tela;
-- Em caso de empate, uma mensagem de empate deve ser mostrada na tela;
-- Deve ser possível reiniciar o jogo para jogar novamente.
+![Captura de tela 2023-07-07 160801](https://github.com/llarissaribeiro/TicTacToe/assets/118293780/68d4987c-c425-4592-a72d-b1b96abc42ff)
+
+<h1>🧮 Funcionalidades</h1>
+<br> - Incluir o nome do jogador
+<br> - Mostrar o jogador da vez
+<br> - Cada jogador terá sua cor no tabuleiro
+<br> - Quando jogador ganhar será mostrado seu nome na tela
+<br> - O jogo pode ser reiniciado</p>
+
+<h1>💻 Demo</h1>
+https://llarissaribeiro.github.io/TicTacToe/
+
+<h1>🚀 Tecnologias</h1>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
